@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1719473480 source:c:\users\tomyy\desktop\escalera final\escaleraproyectofinal\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<windows.h>
+	"funciones.h"
+
+1719476640 c:\users\tomyy\desktop\escalera final\escaleraproyectofinal\funciones.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<conio.h>
+	<cstdio>
+	<windows.h>
+	<algorithm>
+
+1721189225 source:c:\users\tomyy\desktop\escalerafinalll\escaleraproyectofinal(revisar)\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<windows.h>
+	"funciones.h"
+
+1721193637 c:\users\tomyy\desktop\escalerafinalll\escaleraproyectofinal(revisar)\funciones.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<conio.h>
+	<cstdio>
+	<windows.h>
+	<algorithm>
+
+1721189225 source:c:\users\admin\desktop\escaleraproyectofinal(modosimulado)\escaleraproyectofinal(modosimulado)\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<windows.h>
+	"funciones.h"
+
+1721193637 c:\users\admin\desktop\escaleraproyectofinal(modosimulado)\escaleraproyectofinal(modosimulado)\funciones.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<conio.h>
+	<cstdio>
+	<windows.h>
+	<algorithm>
+
